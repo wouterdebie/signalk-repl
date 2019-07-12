@@ -1,0 +1,24 @@
+{
+  "name": "signalk-repl",
+  "version": "1.0.0",
+  "description": "Plugin that provides a REPL for Signalk server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
+  "author": {
+    "name": "Wouter de Bie",
+    "email": "wouter@evenflow.nl"
+  },
+  "bugs": {
+    "url": "https://github.com/wouterdebie/signalk-repl"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wouterdebie/signalk-repl.git"
+  }
+}
